@@ -3,7 +3,7 @@ const nextConfig = {
   reactStrictMode: false,
   swcMinify: true,
   images: {
-    unoptimized: false,
+    unoptimized: true,
   },
 }
 
