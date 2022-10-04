@@ -1,6 +1,6 @@
 lsi: false
 safe: true
-source: "BuildTry1"
+source: "pages"
 incremental: false
 highlighter: rouge
 gist:
